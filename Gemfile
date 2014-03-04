@@ -13,5 +13,5 @@ gem "lita", "~> 3.0.3"
 # gem "lita-google-images"
 # gem "lita-karma"
 gem 'pry'
-gem 'lita-slack', :git => "git://github.com/siliconstraits/lita-slack.git"
-gem "lita-slack-handler",:path =>'/Users/anhduyvo/Projects/lita-slack-handler', :git => "git://github.com/siliconstraits/lita-slack-handler.git"
+gem 'lita-slack',:git => "git://github.com/siliconstraits/lita-slack.git"
+gem "lita-slack-handler", :git => "git://github.com/siliconstraits/lita-slack-handler.git"
